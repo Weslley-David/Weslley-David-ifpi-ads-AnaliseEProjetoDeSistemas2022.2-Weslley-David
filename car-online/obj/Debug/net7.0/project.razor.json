@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\e-comerce-3.csproj",
+  "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\car-online.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16552,166 +16552,216 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "e_comerce_3",
+  "RootNamespace": "car_online",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Ticket\\Create.cshtml",
-      "TargetPath": "Views\\Ticket\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Request\\Index.cshtml",
-      "TargetPath": "Views\\Request\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Request\\Create.cshtml",
-      "TargetPath": "Views\\Request\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Product\\Edit.cshtml",
-      "TargetPath": "Views\\Product\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Consumer\\Create.cshtml",
-      "TargetPath": "Views\\Consumer\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Request\\Delete.cshtml",
-      "TargetPath": "Views\\Request\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Consumer\\Details.cshtml",
-      "TargetPath": "Views\\Consumer\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Consumer\\Delete.cshtml",
-      "TargetPath": "Views\\Consumer\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Request\\Details.cshtml",
-      "TargetPath": "Views\\Request\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\CreditCard\\Edit.cshtml",
-      "TargetPath": "Views\\CreditCard\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\CreditCard\\Create.cshtml",
-      "TargetPath": "Views\\CreditCard\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Ticket\\Index.cshtml",
-      "TargetPath": "Views\\Ticket\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Product\\Details.cshtml",
-      "TargetPath": "Views\\Product\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\CreditCard\\Index.cshtml",
-      "TargetPath": "Views\\CreditCard\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\CreditCard\\Details.cshtml",
-      "TargetPath": "Views\\CreditCard\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Ticket\\Edit.cshtml",
-      "TargetPath": "Views\\Ticket\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Product\\Create.cshtml",
-      "TargetPath": "Views\\Product\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Product\\Delete.cshtml",
-      "TargetPath": "Views\\Product\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Consumer\\Edit.cshtml",
-      "TargetPath": "Views\\Consumer\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Consumer\\Index.cshtml",
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Consumer\\Index.cshtml",
       "TargetPath": "Views\\Consumer\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Ticket\\Index.cshtml",
+      "TargetPath": "Views\\Ticket\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Ticket\\Details.cshtml",
-      "TargetPath": "Views\\Ticket\\Details.cshtml",
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Brand\\Edit.cshtml",
+      "TargetPath": "Views\\Brand\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Request\\Edit.cshtml",
-      "TargetPath": "Views\\Request\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Product\\Index.cshtml",
-      "TargetPath": "Views\\Product\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\CreditCard\\Delete.cshtml",
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CreditCard\\Delete.cshtml",
       "TargetPath": "Views\\CreditCard\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Brand\\Index.cshtml",
+      "TargetPath": "Views\\Brand\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\e-comerce-3\\Views\\Ticket\\Delete.cshtml",
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Product\\Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CarVersion\\Create.cshtml",
+      "TargetPath": "Views\\CarVersion\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Product\\Create.cshtml",
+      "TargetPath": "Views\\Product\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CarVersion\\Delete.cshtml",
+      "TargetPath": "Views\\CarVersion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Request\\Details.cshtml",
+      "TargetPath": "Views\\Request\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CreditCard\\Index.cshtml",
+      "TargetPath": "Views\\CreditCard\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Product\\Delete.cshtml",
+      "TargetPath": "Views\\Product\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Consumer\\Details.cshtml",
+      "TargetPath": "Views\\Consumer\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CreditCard\\Create.cshtml",
+      "TargetPath": "Views\\CreditCard\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Request\\Edit.cshtml",
+      "TargetPath": "Views\\Request\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CreditCard\\Details.cshtml",
+      "TargetPath": "Views\\CreditCard\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Request\\Delete.cshtml",
+      "TargetPath": "Views\\Request\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CarVersion\\Details.cshtml",
+      "TargetPath": "Views\\CarVersion\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Brand\\Create.cshtml",
+      "TargetPath": "Views\\Brand\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Consumer\\Edit.cshtml",
+      "TargetPath": "Views\\Consumer\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Consumer\\Delete.cshtml",
+      "TargetPath": "Views\\Consumer\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CarVersion\\Index.cshtml",
+      "TargetPath": "Views\\CarVersion\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Brand\\Details.cshtml",
+      "TargetPath": "Views\\Brand\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Product\\Edit.cshtml",
+      "TargetPath": "Views\\Product\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Consumer\\Create.cshtml",
+      "TargetPath": "Views\\Consumer\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Ticket\\Details.cshtml",
+      "TargetPath": "Views\\Ticket\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Brand\\Delete.cshtml",
+      "TargetPath": "Views\\Brand\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Product\\Details.cshtml",
+      "TargetPath": "Views\\Product\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Ticket\\Delete.cshtml",
       "TargetPath": "Views\\Ticket\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Request\\Create.cshtml",
+      "TargetPath": "Views\\Request\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CreditCard\\Edit.cshtml",
+      "TargetPath": "Views\\CreditCard\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\CarVersion\\Edit.cshtml",
+      "TargetPath": "Views\\CarVersion\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Ticket\\Create.cshtml",
+      "TargetPath": "Views\\Ticket\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Request\\Index.cshtml",
+      "TargetPath": "Views\\Request\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Ticket\\Edit.cshtml",
+      "TargetPath": "Views\\Ticket\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wesll\\projects\\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\\car-online\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
