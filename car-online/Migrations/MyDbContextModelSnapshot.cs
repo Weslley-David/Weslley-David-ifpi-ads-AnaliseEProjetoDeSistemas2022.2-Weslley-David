@@ -73,6 +73,23 @@ namespace car_online.Migrations
                     b.ToTable("Consumer");
                 });
 
+            modelBuilder.Entity("car_online.Models.Login", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("password")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("username")
+                        .HasColumnType("longtext");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Login");
+                });
+
             modelBuilder.Entity("car_online.Models.Payment", b =>
                 {
                     b.Property<int>("id")

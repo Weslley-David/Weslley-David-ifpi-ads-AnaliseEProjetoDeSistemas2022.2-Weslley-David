@@ -9,177 +9,197 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = car_online
 build_property.RootNamespace = car_online
-build_property.ProjectDir = c:\Users\wesll\projects\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\car-online\
+build_property.ProjectDir = C:\Users\wesll\projects\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\car-online\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\wesll\projects\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\car-online
+build_property.MSBuildProjectDirectory = C:\Users\wesll\projects\Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David\car-online
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyVmVyc2lvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyVmVyc2lvblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyVmVyc2lvblxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyVmVyc2lvblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CarVersion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyVmVyc2lvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Consumer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlZGl0Q2FyZFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlZGl0Q2FyZFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlZGl0Q2FyZFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlZGl0Q2FyZFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/CreditCard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlZGl0Q2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Home/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Home/Privacy.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Login/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Login/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Login/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Request/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Shared/Error.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Create.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Delete.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Details.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Edit.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Index.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Ticket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/_ViewImports.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/_ViewStart.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Shared/_Layout.cshtml]
+[C:/Users/wesll/projects/Weslley-David-ifpi-ads-AnaliseEProjetoDeSistemas2022.2-Weslley-David/car-online/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bwtzbhndde

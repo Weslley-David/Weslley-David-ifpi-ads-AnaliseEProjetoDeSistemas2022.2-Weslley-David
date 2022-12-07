@@ -11,7 +11,7 @@ using car_online.Models;
 namespace car_online.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20221206162436_FirstMig")]
+    [Migration("20221207142247_FirstMig")]
     partial class FirstMig
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -73,6 +73,23 @@ namespace car_online.Migrations
                     b.HasKey("id");
 
                     b.ToTable("Consumer");
+                });
+
+            modelBuilder.Entity("car_online.Models.Login", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("password")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("username")
+                        .HasColumnType("longtext");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Login");
                 });
 
             modelBuilder.Entity("car_online.Models.Payment", b =>

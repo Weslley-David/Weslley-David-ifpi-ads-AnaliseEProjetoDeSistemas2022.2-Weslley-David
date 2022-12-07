@@ -19,5 +19,6 @@ namespace car_online.Models
         public DbSet<Product> Product {get; set;}
         public DbSet<CarVersion> CarVersion {get;set;}
         public DbSet<Brand> Brand {get;set;}
+        public DbSet<Login> Login { get; set; }
     }
 }
